@@ -6,7 +6,7 @@ public class CollegeAdmissionSystem {
 
     static final String DB_URL = "jdbc:mysql://localhost:3306/college_admission";
     static final String DB_USER = "root";
-    static final String DB_PASS = "raj@123"; // Replace with your MySQL password
+    static final String DB_PASS = "PassWord"; // Replace with your MySQL password
 
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
